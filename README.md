@@ -1,5 +1,5 @@
-```markdown
-# 🐾 AuDoção - Encontre seu novo melhor amigo
+
+# 🐾 AuDoção - Encontre seu novo melhor amigo 
 
 O **AuDoção** é uma plataforma web focada em facilitar o processo de adoção responsável de animais em Recife e região. O projeto combina um design moderno e minimalista com uma interface intuitiva para conectar protetores e futuros adotantes.
 
@@ -7,21 +7,25 @@ O **AuDoção** é uma plataforma web focada em facilitar o processo de adoção
 
 Este projeto foi desenvolvido utilizando as melhores práticas de front-end:
 
+```
 * **HTML5**: Estrutura semântica e acessível.
 * **Sass (SCSS)**: Pré-processador CSS para uma estilização modular e organizada.
 * **Flexbox & CSS Grid**: Para layouts responsivos e alinhamentos precisos.
 * **Google Fonts**: Tipografia moderna (Poppins) focada em legibilidade.
+```
 
 ## 🎨 Design System
 
+```
 O visual do projeto segue uma estética **Clean & Glassmorphism**, priorizando:
 * **Cores Principais**: Amarelo (Energia e Atenção) e Azul Escuro (Confiança e Seriedade).
 * **Componentes**: Cards arredondados, botões estilo "pílula" e efeitos de desfoque (backdrop-filter).
 * **Responsividade**: Interface adaptável para dispositivos móveis e desktop.
+```
 
 ## 📁 Estrutura de Pastas
 
-```text
+```
 audocao/
 ├── scss/           # Arquivos fonte do Sass
 │   ├── pages/      # Estilos específicos por página (_home.scss, _login.scss, etc)
@@ -32,7 +36,7 @@ audocao/
 └── style.css       # CSS compilado (gerado pelo Sass)
 ```
 
-## ⚙️ Como rodar o projeto
+##⚙️ Como rodar o projeto
 
 1.  **Clone o repositório**:
     ```bash
@@ -59,4 +63,4 @@ audocao/
 ---
 🎨 **Desenvolvedores:** Paula Arruda e Carolina Batatinha  
 🎓 **Contexto:** Projeto desenvolvido para portfólio e prática de Desenvolvimento de Sistemas (ADS).
-```
+
