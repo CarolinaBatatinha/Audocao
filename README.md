@@ -1,11 +1,3 @@
-Um bom `README.md` é o cartão de visitas de qualquer desenvolvedor, especialmente para quem tem background em **ADS**. Ele precisa ser direto, explicar o "que", o "como" e o "porquê" do projeto.
-
-Aqui está um modelo completo e profissional para o **AuDoção**, focado na organização que você já está seguindo:
-
----
-
-### Código para o arquivo `README.md`
-
 ```markdown
 # 🐾 AuDoção - Encontre seu novo melhor amigo
 
@@ -60,21 +52,11 @@ audocao/
 
 - [x] Interface de Login e Cadastro com validação visual.
 - [x] Home com Grid responsivo de pets.
-- [x] Filtros por espécie (Cães, Gatos e Outros).
+- [ ] Filtros por espécie (Cães, Gatos e Outros).
 - [ ] Integração com Backend/API para listagem real de animais.
 - [ ] Perfil detalhado do animal com formulário de interesse.
 
 ---
-🎨 **Autor:** [Seu Nome ou Paula]  
+🎨 **Desenvolvedores:** Paula Arruda e Carolina Batatinha  
 🎓 **Contexto:** Projeto desenvolvido para portfólio e prática de Desenvolvimento de Sistemas (ADS).
 ```
-
----
-
-### Dicas Extras para o seu GitHub:
-
-1.  **Screenshots**: Depois de terminar a Home e o Login, tire prints bonitos (ou grave um GIF navegando) e coloque uma seção `## 📸 Demonstração` no README. Isso chama muita atenção de recrutadores.
-2.  **Status do Projeto**: Como você está evoluindo ele, manter a lista de "Funcionalidades em Desenvolvimento" ajuda a mostrar que você tem visão de produto e sabe planejar o *roadmap*.
-3.  **LinkedIn**: Não esqueça de colocar o link do seu LinkedIn no final do arquivo!
-
-O que achou desse resumo? Está pronto para o seu primeiro commit! 🚀🐾
